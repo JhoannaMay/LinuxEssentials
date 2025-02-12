@@ -1,3 +1,5 @@
+//LACORTE, JHOANNA MAY P
+
 echo "Activity 1"
 
 
